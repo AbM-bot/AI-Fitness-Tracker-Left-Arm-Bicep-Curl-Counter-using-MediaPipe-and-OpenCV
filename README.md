@@ -1,4 +1,4 @@
-# 💪 AI Fitness Tracker: Bicep Curl Counter
+# AI Fitness Tracker: Bicep Curl Counter
 
 ## Description
 A real-time AI fitness tracker that counts left-arm bicep curl repetitions using MediaPipe and OpenCV. It tracks body landmarks, calculates the elbow angle, and determines movement stages (up/down) to accurately count reps through a live webcam feed.
